@@ -1,0 +1,2 @@
+#ID	Avg_fold	Length	Ref_GC	Covered_percent	Covered_bases	Plus_reads	Minus_reads	Read_GC	Median_fold	Std_Dev
+NODE_319_length_6089_cov_86.6124	532.2229	6089	0.3889	99.6551	6068	7776	7840	0.3843	537	270.22
